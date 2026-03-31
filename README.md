@@ -28,7 +28,7 @@ By employing the **Isolation Forest** algorithm, LUMEN analyzes log data pattern
    https://github.com/vaishnavi25bce10449-bot/Lumen-AI-Project
    What this project does
 
-## The program takes some inputs from the user like study hours, sleep, screen time, etc. Based on this data, it predicts:
+### The program takes some inputs from the user like study hours, sleep, screen time, etc. Based on this data, it predicts:
 
 ### Expected marks
 Grade (A, B, C, D)
@@ -81,8 +81,6 @@ Improve prediction accuracy
 Add graphs for better understanding
 Convert this into a web or mobile application
 
-#Note
+# Note
 This project is made for learning purposes. The results may not always be accurate because the dataset is small.
 
-
-   
