@@ -1,0 +1,13 @@
+INFO 2026-03-31 10:00:01 User_Login_Success IP=192.168.1.1
+INFO 2026-03-31 10:05:23 Database_Connection_Established
+INFO 2026-03-31 10:15:12 User_Logout_Success IP=192.168.1.1
+WARN 2026-03-31 10:20:45 Disk_Usage_Above_85%_Warning
+INFO 2026-03-31 10:25:34 System_Update_Check_Completed
+ERROR 2026-03-31 10:30:00 Unauthorized_Access_Attempt_Detected_From_Unknown_IP_10.0.0.99
+INFO 2026-03-31 10:35:00 Heartbeat_Signal_Received
+INFO 2026-03-31 10:40:12 Routine_Log_Cleanup_Started
+CRITICAL 2026-03-31 10:45:11 Buffer_Overflow_Detected_At_Memory_Address_0x004F32A1_REBOOT_REQUIRED
+ERROR 2026-03-31 10:50:05 Multiple_Failed_Login_Attempts_Detected_User_Admin
+INFO 2026-03-31 10:55:00 Backup_Sync_Completed_Successfully
+CRITICAL 2026-03-31 11:00:00 Injection_Attack_Pattern_Identified_In_SQL_Query_LOG_ID_992183
+INFO 2026-03-31 11:05:20 Automated_Health_Check_Passed
