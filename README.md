@@ -25,4 +25,5 @@ By employing the **Isolation Forest** algorithm, LUMEN analyzes log data pattern
 ### Step-by-Step Setup
 1. **Clone the Repository:**
    ```bash
+   https://github.com/vaishnavi25bce10449-bot/Lumen-AI-Project
    
